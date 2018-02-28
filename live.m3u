@@ -1,97 +1,78 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 HD
-http://asdp.ddns.net:8000/live/adriano/adriano/470.ts
-#EXTINF:-1,RTP 2 HD
-http://asdp.ddns.net:8000/live/adriano/adriano/344.ts
-#EXTINF:-1,SIC HD
-http://asdp.ddns.net:8000/live/adriano/adriano/345.ts
-#EXTINF:-1,TVI HD
-http://asdp.ddns.net:8000/live/adriano/adriano/346.ts
-#EXTINF:-1,TVI 24
-http://asdp.ddns.net:8000/live/adriano/adriano/347.ts
-#EXTINF:-1,TVI Reality
-http://asdp.ddns.net:8000/live/adriano/adriano/183.ts
-#EXTINF:-1,TVI Ficção
-http://asdp.ddns.net:8000/live/adriano/adriano/482.ts
-#EXTINF:-1,CMTV
-http://asdp.ddns.net:8000/live/adriano/adriano/473.ts
-#EXTINF:-1,FRANCE 24
-http://asdp.ddns.net:8000/live/adriano/adriano/514.ts
-#EXTINF:-1,SANTUÃRIO FATIMA
-http://asdp.ddns.net:8000/live/adriano/adriano/503.ts
-#EXTINF:-1,SIC RADICAL
-http://asdp.ddns.net:8000/live/adriano/adriano/361.ts
-#EXTINF:-1,SIC CARAS
-http://asdp.ddns.net:8000/live/adriano/adriano/362.ts
-#EXTINF:-1,SIC Mulher
-http://asdp.ddns.net:8000/live/adriano/adriano/360.ts
-#EXTINF:-1,SPORT TV 1
-http://asdp.ddns.net:8000/live/adriano/adriano/177.ts
-#EXTINF:-1,SPORT TV 2
-http://asdp.ddns.net:8000/live/adriano/adriano/471.ts
-#EXTINF:-1,SPORT TV 3
-http://asdp.ddns.net:8000/live/adriano/adriano/472.ts
-#EXTINF:-1,SPORT TV 4
-http://asdp.ddns.net:8000/live/adriano/adriano/202.ts
-#EXTINF:-1,SPORT TV 5
-http://asdp.ddns.net:8000/live/adriano/adriano/184.ts
-#EXTINF:-1,BTV 1
-http://asdp.ddns.net:8000/live/adriano/adriano/475.ts
-#EXTINF:-1,PFC
-http://asdp.ddns.net:8000/live/adriano/adriano/221.ts
-#EXTINF:-1,A Bola TV
-http://asdp.ddns.net:8000/live/adriano/adriano/181.ts
-#EXTINF:-1,PORTO CANAL HD
-http://asdp.ddns.net:8000/live/adriano/adriano/513.ts
-#EXTINF:-1,Eurospor hd
-http://asdp.ddns.net:8000/live/adriano/adriano/522.ts
-#EXTINF:-1,Eurosport 1
-http://asdp.ddns.net:8000/live/adriano/adriano/499.ts
-#EXTINF:-1,tv record
-http://asdp.ddns.net:8000/live/adriano/adriano/420.ts
-#EXTINF:-1,TV GLOBO
-http://asdp.ddns.net:8000/live/adriano/adriano/348.ts
-#EXTINF:-1,TLC
-http://asdp.ddns.net:8000/live/adriano/adriano/363.ts
-#EXTINF:-1,TVCine 1 HD
-http://asdp.ddns.net:8000/live/adriano/adriano/405.ts
-#EXTINF:-1,TVCine 2 HD
-http://asdp.ddns.net:8000/live/adriano/adriano/301.ts
-#EXTINF:-1,TVCine 3 HD
-http://asdp.ddns.net:8000/live/adriano/adriano/476.ts
-#EXTINF:-1,TVCine 4 HD
-http://asdp.ddns.net:8000/live/adriano/adriano/302.ts
-#EXTINF:-1,Hollywood
-http://asdp.ddns.net:8000/live/adriano/adriano/205.ts
-#EXTINF:-1,Cinemundo
-http://asdp.ddns.net:8000/live/adriano/adriano/494.ts
-#EXTINF:-1,FOX HD
-http://asdp.ddns.net:8000/live/adriano/adriano/500.ts
-#EXTINF:-1,AXN WHITE HD
-http://asdp.ddns.net:8000/live/adriano/adriano/358.ts
-#EXTINF:-1,AXN BLACK HD
-http://asdp.ddns.net:8000/live/adriano/adriano/359.ts
-#EXTINF:-1,VH1
-http://asdp.ddns.net:8000/live/adriano/adriano/340.ts
-#EXTINF:-1,SIC K
-http://asdp.ddns.net:8000/live/adriano/adriano/497.ts
-#EXTINF:-1,Canal Panda
-http://asdp.ddns.net:8000/live/adriano/adriano/493.ts
-#EXTINF:-1,Nat Geo Wild
-http://asdp.ddns.net:8000/live/adriano/adriano/479.ts
-#EXTINF:-1,BBC
-http://asdp.ddns.net:8000/live/adriano/adriano/516.ts
-#EXTINF:-1,Discovery HD Showcase
-http://asdp.ddns.net:8000/live/adriano/adriano/478.ts
-#EXTINF:-1,National Geographic HD
-http://asdp.ddns.net:8000/live/adriano/adriano/502.ts
-#EXTINF:-1,Odisseia
-http://asdp.ddns.net:8000/live/adriano/adriano/498.ts
-#EXTINF:-1,Disney Channel
-http://asdp.ddns.net:8000/live/adriano/adriano/481.ts
-#EXTINF:-1,Cartoon Network Portugal
-http://asdp.ddns.net:8000/live/adriano/adriano/393.ts
-#EXTINF:-1,PLAYBOY TV
-http://asdp.ddns.net:8000/live/adriano/adriano/323.ts
-#EXTINF:-1,Venus
-http://asdp.ddns.net:8000/live/adriano/adriano/480.ts
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/918.ts
+#EXTINF:-1,[UK] Sky Sports main event
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/936.ts
+#EXTINF:-1,[UK] Sky Sports Cricket
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/937.ts
+#EXTINF:-1,[UK] Sky Sports Action
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/938.ts
+#EXTINF:-1,[UK] Sky Sports Golf
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/939.ts
+#EXTINF:-1,[UK] Sky Sports Premier league
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/979.ts
+#EXTINF:-1,[UK] Fox News
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/920.ts
+#EXTINF:-1,[UK] True Movies 2
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1511.ts
+#EXTINF:-1,[UK] ITV 1
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1503.ts
+#EXTINF:-1,[UK] ITV 2
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1501.ts
+#EXTINF:-1,[UK] ITV 3
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1500.ts
+#EXTINF:-1,[UK] ITV 4
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1519.ts
+#EXTINF:-1,[UK] True Movies 1 HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/928.ts
+#EXTINF:-1,[UK] Sky Movies Comedy
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/926.ts
+#EXTINF:-1,[UK] Sky Movies Select HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/925.ts
+#EXTINF:-1,[UK] Sky Movies Family HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/922.ts
+#EXTINF:-1,[UK] Sky Movies Action HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/919.ts
+#EXTINF:-1,[UK] Sky Movies Premiere HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/923.ts
+#EXTINF:-1,[UK] Boomerang
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/927.ts
+#EXTINF:-1,[UK] Sky Movies Horror HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/924.ts
+#EXTINF:-1,[UK] CBS Reality
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/934.ts
+#EXTINF:-1,[UK] Discovery History
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/932.ts
+#EXTINF:-1,[UK] Boxnation HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/933.ts
+#EXTINF:-1,[UK] FOOD NETWORK
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/935.ts
+#EXTINF:-1,[UK] Pop Max TV
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/930.ts
+#EXTINF:-1,[UK] NICK JUNIOR
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/931.ts
+#EXTINF:-1,[UK] CARTOON NETWORK
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/921.ts
+#EXTINF:-1,[UK] QVC
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1290.ts
+#EXTINF:-1,[UK] BBC 1
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1506.ts
+#EXTINF:-1,[UK] BBC 2
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1505.ts
+#EXTINF:-1,[UK] BBC 3
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1504.ts
+#EXTINF:-1,[UK] BBC 4
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1499.ts
+#EXTINF:-1,[UK] BT Sport ESPN
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1833.ts
+#EXTINF:-1,[UK] BT Sport 1 HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1498.ts
+#EXTINF:-1,[UK] BT Sport 2 HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1497.ts
+#EXTINF:-1,[UK] BT Sport 3 HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1496.ts
+#EXTINF:-1,[UK] BT Sport Extra 1
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1836.ts
+#EXTINF:-1,[UK] BT Sport Extra 3
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1835.ts
+#EXTINF:-1,[UK] BT Sport Extra 4
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1834.ts
